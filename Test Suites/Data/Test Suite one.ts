@@ -15,7 +15,8 @@
       <guid>63e34fe2-0e8b-44ef-afb3-1ad85cae518b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase - Folder1/Test 3</testCaseId>
+      <testCaseId>Test Cases/TestCase - Folder1/Test 3 a</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
