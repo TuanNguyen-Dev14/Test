@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestSuiteEntity>
     <name>G5 TS 1</name>
-    <testSuiteGuid>7372e72f-16b8-49ed-ae71-99d8374ec72f</testSuiteGuid>
+    <testSuiteGuid>22413bf1-d955-43ba-bcf3-8172bc7bd94a</testSuiteGuid>
     <testCaseLink>
         <testCaseId>test-cases/TC4</testCaseId>
-        <guid>d1abb0a0-4a03-4312-8499-21451112a692</guid>
+        <guid>44755c82-8fb4-4ee8-94a0-f282604c5679</guid>
     </testCaseLink>
 </TestSuiteEntity>
