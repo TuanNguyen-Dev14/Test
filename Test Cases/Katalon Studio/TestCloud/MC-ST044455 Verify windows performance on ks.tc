@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST044455 Verify windows performance on ks</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>a14414dd-ebea-4e85-9562-cc946c588528</testCaseGuid>
+</TestCaseEntity>
