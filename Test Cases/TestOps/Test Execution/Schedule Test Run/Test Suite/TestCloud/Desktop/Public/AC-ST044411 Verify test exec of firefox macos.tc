@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044411 Verify test exec of firefox macos</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>96728176-fb5d-4da8-9b01-997c1c09ea92</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a8fa0fb9-a19c-4544-aba1-8a3ce8bcabfd</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Public/AC-ST044411</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a8fa0fb9-a19c-4544-aba1-8a3ce8bcabfd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>92301a7b-afcc-4cab-8ffd-c50c14b03945</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a8fa0fb9-a19c-4544-aba1-8a3ce8bcabfd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>cade9089-ae93-4023-8f95-654fefce0432</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a8fa0fb9-a19c-4544-aba1-8a3ce8bcabfd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>45b6a785-1161-4b44-8b47-4f0c49f84681</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a8fa0fb9-a19c-4544-aba1-8a3ce8bcabfd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>f62677ea-e53d-40ca-aa1d-4351108eb42d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>92301a7b-afcc-4cab-8ffd-c50c14b03945</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Public/WA TS with 2 tests passed'</defaultValue>
+      <description></description>
+      <id>cade9089-ae93-4023-8f95-654fefce0432</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'106'</defaultValue>
+      <description></description>
+      <id>45b6a785-1161-4b44-8b47-4f0c49f84681</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-FIREFOX-MACOS-1'</defaultValue>
+      <description></description>
+      <id>f62677ea-e53d-40ca-aa1d-4351108eb42d</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST040410 Verify test exec of chrome headless linux</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>6fd3756f-1cf9-49ee-8068-7ba755b61b2f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a05d366e-4375-4f7b-9181-14a37c26e658</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Public/AC-ST040410</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a05d366e-4375-4f7b-9181-14a37c26e658</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>917161fd-5547-481e-b151-03d6de63ebd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a05d366e-4375-4f7b-9181-14a37c26e658</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>232e8d27-e769-4cdb-b4dc-1601a39a5eec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a05d366e-4375-4f7b-9181-14a37c26e658</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>152557cf-9df2-4744-9a50-74f17a912e58</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a05d366e-4375-4f7b-9181-14a37c26e658</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>1f65a34b-ceff-4ebf-aee0-a8acb22a1dd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>917161fd-5547-481e-b151-03d6de63ebd5</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Public/WA TS with 1 test passed'</defaultValue>
+      <description></description>
+      <id>232e8d27-e769-4cdb-b4dc-1601a39a5eec</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'107'</defaultValue>
+      <description></description>
+      <id>152557cf-9df2-4744-9a50-74f17a912e58</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-CHROME-HL-LINUX-1'</defaultValue>
+      <description></description>
+      <id>1f65a34b-ceff-4ebf-aee0-a8acb22a1dd0</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

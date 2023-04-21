@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST040414 Verify test exec of chrome linux w. tunnel</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>aeabf7c7-7da4-40ae-b26d-72439db646f1</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4ef39fbd-9328-4416-9d1e-bc8246ba636c</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Tunnel/AC-ST040414</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4ef39fbd-9328-4416-9d1e-bc8246ba636c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>4c40530e-6fd4-44db-b91d-8db2a10ec1f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ef39fbd-9328-4416-9d1e-bc8246ba636c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>536e78ef-d0b2-46a6-a4c7-813fbfa78dec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ef39fbd-9328-4416-9d1e-bc8246ba636c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>74c93374-8321-41a8-b3bf-0b20c7d2c5b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ef39fbd-9328-4416-9d1e-bc8246ba636c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>c8bad0a6-45ac-49b4-b256-5c38c86d23af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>4c40530e-6fd4-44db-b91d-8db2a10ec1f9</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Private/WA TS with tunnel with 1 test passed'</defaultValue>
+      <description></description>
+      <id>536e78ef-d0b2-46a6-a4c7-813fbfa78dec</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'107'</defaultValue>
+      <description></description>
+      <id>74c93374-8321-41a8-b3bf-0b20c7d2c5b9</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-CHROME-LINUX-TUNNEL-1'</defaultValue>
+      <description></description>
+      <id>c8bad0a6-45ac-49b4-b256-5c38c86d23af</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

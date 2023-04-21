@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FA005608 GET_Verify API get AUT by ID or client code as Admin or Owner</name>
+   <tag>autonomous,fast-test,api</tag>
+   <comment></comment>
+   <testCaseGuid>d79422f2-02e5-43f8-97ab-434b1454303b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST040412 Verify test exec of firefox headless linux</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>50da5357-1616-4e83-9d1c-a6a03f46cf3f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ecf32ed4-c40c-43d4-afad-82bf56ef87ca</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Public/AC-ST040412</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ecf32ed4-c40c-43d4-afad-82bf56ef87ca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>3c726024-f20a-4fb4-a557-4a45f87c3edd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ecf32ed4-c40c-43d4-afad-82bf56ef87ca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>d2cffe56-ffd4-4582-ab10-ec92382d921f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ecf32ed4-c40c-43d4-afad-82bf56ef87ca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>bc99eeb5-d886-4d67-86cd-129397960ad2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ecf32ed4-c40c-43d4-afad-82bf56ef87ca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>00544ccc-6870-478f-8d4d-3ad949952086</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>3c726024-f20a-4fb4-a557-4a45f87c3edd</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Public/WA TS with 1 test passed'</defaultValue>
+      <description></description>
+      <id>d2cffe56-ffd4-4582-ab10-ec92382d921f</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'106'</defaultValue>
+      <description></description>
+      <id>bc99eeb5-d886-4d67-86cd-129397960ad2</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-FIREFOX-HL-LINUX'</defaultValue>
+      <description></description>
+      <id>00544ccc-6870-478f-8d4d-3ad949952086</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

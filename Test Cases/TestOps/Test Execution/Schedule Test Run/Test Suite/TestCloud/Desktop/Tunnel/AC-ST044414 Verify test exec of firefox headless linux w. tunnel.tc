@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044414 Verify test exec of firefox headless linux w. tunnel</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>e7f2a1ea-7ca9-41d9-bfd6-5c39302a46c5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f2a699b0-178d-4241-987e-f6b60fdbb8d1</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Tunnel/AC-ST044414</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f2a699b0-178d-4241-987e-f6b60fdbb8d1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>551871ca-318d-4a17-9b23-1b7b818cb744</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f2a699b0-178d-4241-987e-f6b60fdbb8d1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>ab70cef0-78d5-43b9-a42a-c10747bfbbf9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f2a699b0-178d-4241-987e-f6b60fdbb8d1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>8c39ffbf-6227-4b04-8d60-135cff9e2976</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f2a699b0-178d-4241-987e-f6b60fdbb8d1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>04128b6c-29c0-4ea6-8a38-32e713a45a6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>551871ca-318d-4a17-9b23-1b7b818cb744</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Private/WA TS with tunnel with 1 test passed'</defaultValue>
+      <description></description>
+      <id>ab70cef0-78d5-43b9-a42a-c10747bfbbf9</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'106'</defaultValue>
+      <description></description>
+      <id>8c39ffbf-6227-4b04-8d60-135cff9e2976</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-FIREFOX-HEADLESS-LINUX-TUNNEL-1'</defaultValue>
+      <description></description>
+      <id>04128b6c-29c0-4ea6-8a38-32e713a45a6b</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

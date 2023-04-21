@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-FE0395 Verify UI of visual Test dashboard and Detail pages</name>
+   <tag>fast-test,visual-testing,ui</tag>
+   <comment></comment>
+   <testCaseGuid>b10d90b2-eec9-42d4-a5a5-c83acce910ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b8db9f9-f525-4b8a-b0c9-7a8962f5a64d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>9</defaultValue>
+      <description></description>
+      <id>0b8db9f9-f525-4b8a-b0c9-7a8962f5a64d</id>
+      <masked>false</masked>
+      <name>testRunID</name>
+   </variable>
+</TestCaseEntity>

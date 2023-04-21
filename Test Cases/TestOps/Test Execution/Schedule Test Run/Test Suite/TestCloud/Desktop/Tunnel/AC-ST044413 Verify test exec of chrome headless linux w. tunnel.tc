@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044413 Verify test exec of chrome headless linux w. tunnel</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>d1c9d65f-530a-402f-a63e-c5e58d052ae2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3d3c93fa-23d3-457b-a0b3-efebbd4aee76</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Tunnel/AC-ST044413</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3d3c93fa-23d3-457b-a0b3-efebbd4aee76</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>60595e1c-1a8e-42d7-8a92-ad266513d7a8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3d3c93fa-23d3-457b-a0b3-efebbd4aee76</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>72facec1-022e-4e02-8b2b-febd05c71f25</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3d3c93fa-23d3-457b-a0b3-efebbd4aee76</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>560b7ea0-5031-4c67-b560-cf05b86eac24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3d3c93fa-23d3-457b-a0b3-efebbd4aee76</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>f892bbef-28a1-45cd-8bf8-3fc40a927900</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>60595e1c-1a8e-42d7-8a92-ad266513d7a8</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Private/WA TS with tunnel with 1 test passed'</defaultValue>
+      <description></description>
+      <id>72facec1-022e-4e02-8b2b-febd05c71f25</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'107'</defaultValue>
+      <description></description>
+      <id>560b7ea0-5031-4c67-b560-cf05b86eac24</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-CHROME-HEADLESS-LINUX-TUNNEL-1'</defaultValue>
+      <description></description>
+      <id>f892bbef-28a1-45cd-8bf8-3fc40a927900</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

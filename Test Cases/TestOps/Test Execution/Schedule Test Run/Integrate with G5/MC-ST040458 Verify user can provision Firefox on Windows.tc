@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without tunnel</description>
+   <name>MC-ST040458 Verify user can provision Firefox on Windows</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>86adc785-010f-488f-941e-952024897795</testCaseGuid>
+</TestCaseEntity>

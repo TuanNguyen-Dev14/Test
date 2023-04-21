@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MC-ST044452 Verify running pod cancellation</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>a24b1447-9f93-49cd-a7fe-7e2dba56840b</testCaseGuid>
+</TestCaseEntity>

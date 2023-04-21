@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044437 Verify test exec of tsc w. circleci</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>cba6f535-8fad-4fb7-a755-386a87b613da</testCaseGuid>
+</TestCaseEntity>

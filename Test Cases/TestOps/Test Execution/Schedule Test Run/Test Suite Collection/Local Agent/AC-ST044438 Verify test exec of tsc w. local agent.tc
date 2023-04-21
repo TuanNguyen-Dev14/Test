@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044438 Verify test exec of tsc w. local agent</name>
+   <tag>story-test,schedule-test-run,ui,p2</tag>
+   <comment></comment>
+   <testCaseGuid>e6932da9-4ef8-4df4-9518-e5d8cb79e085</testCaseGuid>
+</TestCaseEntity>

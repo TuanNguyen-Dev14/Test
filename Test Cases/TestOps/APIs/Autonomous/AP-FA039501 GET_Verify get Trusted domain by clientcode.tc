@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FA039501 GET_Verify get Trusted domain by clientcode</name>
+   <tag>fast-test,autonomous-testgen,api,p1</tag>
+   <comment></comment>
+   <testCaseGuid>6d7fe0a9-34fe-4797-8147-6d4190d2eb84</testCaseGuid>
+</TestCaseEntity>

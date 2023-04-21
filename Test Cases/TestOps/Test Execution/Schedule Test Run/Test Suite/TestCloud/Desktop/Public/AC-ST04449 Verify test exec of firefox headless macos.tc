@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST04449 Verify test exec of firefox headless macos</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>a1b0749c-e208-4e16-a2a3-c11d218ace25</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e59925c5-d75e-4b1f-ae94-c1de064e2c47</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Public/AC-ST04449</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e59925c5-d75e-4b1f-ae94-c1de064e2c47</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>db431628-8db9-4c8f-921d-6eb5c7354333</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e59925c5-d75e-4b1f-ae94-c1de064e2c47</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>622c8cc3-9a78-43e0-8d74-141b32db76d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e59925c5-d75e-4b1f-ae94-c1de064e2c47</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>9053c749-a4c8-4bac-bc04-80e9e1b00dce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e59925c5-d75e-4b1f-ae94-c1de064e2c47</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>de93b846-4a7d-4fbb-b4d5-250ffbf60b90</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>db431628-8db9-4c8f-921d-6eb5c7354333</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Public/WA TS with 2 tests passed'</defaultValue>
+      <description></description>
+      <id>622c8cc3-9a78-43e0-8d74-141b32db76d3</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'106'</defaultValue>
+      <description></description>
+      <id>9053c749-a4c8-4bac-bc04-80e9e1b00dce</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-FIREFOX-HL-MACOS-1'</defaultValue>
+      <description></description>
+      <id>de93b846-4a7d-4fbb-b4d5-250ffbf60b90</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

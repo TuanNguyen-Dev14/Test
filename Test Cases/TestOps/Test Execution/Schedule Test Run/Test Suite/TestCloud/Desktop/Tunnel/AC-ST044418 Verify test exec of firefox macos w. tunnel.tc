@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AC-ST044418 Verify test exec of firefox macos w. tunnel</name>
+   <tag>story-test,schedule-test-run,ui,p1</tag>
+   <comment></comment>
+   <testCaseGuid>9a07bd95-15dd-4dfc-9103-ba40082d4d01</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>69c32342-2f8b-4bfb-ac94-1d9cfb648bf9</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/TestOps/Test Execution/Schedule Test Run/Test Suite/TestCloud/Desktop/Tunnel/AC-ST044418</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>69c32342-2f8b-4bfb-ac94-1d9cfb648bf9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>scriptRepo</value>
+      <variableId>7d48423c-cf7c-463d-bb9d-b7f8992d5cc1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>69c32342-2f8b-4bfb-ac94-1d9cfb648bf9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>testSuitePath</value>
+      <variableId>f57cbacc-9db8-406c-bf03-789b3097bef2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>69c32342-2f8b-4bfb-ac94-1d9cfb648bf9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>browserVersion</value>
+      <variableId>78210776-a902-4975-995b-6986f6b496c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>69c32342-2f8b-4bfb-ac94-1d9cfb648bf9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tcSubId</value>
+      <variableId>c0df02f1-173e-4156-a87a-cc247040eac1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cloudian-automation-1'</defaultValue>
+      <description></description>
+      <id>7d48423c-cf7c-463d-bb9d-b7f8992d5cc1</id>
+      <masked>false</masked>
+      <name>scriptRepo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Suites/Web App/Test Suites/Private/WA TS with tunnel with 1 test passed'</defaultValue>
+      <description></description>
+      <id>f57cbacc-9db8-406c-bf03-789b3097bef2</id>
+      <masked>false</masked>
+      <name>testSuitePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'106'</defaultValue>
+      <description></description>
+      <id>78210776-a902-4975-995b-6986f6b496c1</id>
+      <masked>false</masked>
+      <name>browserVersion</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEFAULT-TEST-EXEC-FIREFOX-MACOS-TUNNEL-1'</defaultValue>
+      <description></description>
+      <id>c0df02f1-173e-4156-a87a-cc247040eac1</id>
+      <masked>false</masked>
+      <name>tcSubId</name>
+   </variable>
+</TestCaseEntity>

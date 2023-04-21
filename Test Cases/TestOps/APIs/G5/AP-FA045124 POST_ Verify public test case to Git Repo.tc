@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP-FA045124 POST_ Verify public test case to Git Repo</name>
+   <tag>fast-test,g5,api</tag>
+   <comment></comment>
+   <testCaseGuid>c9ab2cfd-e26c-49e4-a93e-d56e551c7ad4</testCaseGuid>
+</TestCaseEntity>
