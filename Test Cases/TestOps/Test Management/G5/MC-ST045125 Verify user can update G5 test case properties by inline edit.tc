@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>MC-ST045125 Verify user can update G5 test case properties by inline edit</name>
-   <tag>story-test,g5,ui,p2</tag>
-   <comment></comment>
-   <testCaseGuid>d16cc316-aed4-4976-a6dd-ddc958ddd4f6</testCaseGuid>
-</TestCaseEntity>

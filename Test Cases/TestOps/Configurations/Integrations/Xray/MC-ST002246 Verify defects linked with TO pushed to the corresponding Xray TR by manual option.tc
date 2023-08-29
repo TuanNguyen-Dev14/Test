@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>MC-ST002246 Verify defects linked with TO pushed to the corresponding Xray TR by manual option</name>
-   <tag>story-test,xray,ui,p2</tag>
-   <comment></comment>
-   <testCaseGuid>0d334f57-e57d-4222-a848-a7b447421358</testCaseGuid>
-</TestCaseEntity>

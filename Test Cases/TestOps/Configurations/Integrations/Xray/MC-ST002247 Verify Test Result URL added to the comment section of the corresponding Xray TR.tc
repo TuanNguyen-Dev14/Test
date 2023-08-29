@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>MC-ST002247 Verify Test Result URL added to the comment section of the corresponding Xray TR</name>
-   <tag>story-test,xray,ui,p2</tag>
-   <comment></comment>
-   <testCaseGuid>40f51ada-74de-4b73-8259-fcb241ea72af</testCaseGuid>
-</TestCaseEntity>

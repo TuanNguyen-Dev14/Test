@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>without tunnel</description>
-   <name>MC-ST040460 Verify user can provision Chrome on Linux</name>
-   <tag>story-test,schedule-test-run,ui,p1</tag>
-   <comment></comment>
-   <testCaseGuid>8d43293e-86ab-4a47-b46b-3500487d9c9a</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FA005611 POST_Verify API link as permission Admin or Owner</name>
-   <tag>autonomous,fast-test,api</tag>
-   <comment></comment>
-   <testCaseGuid>f813288e-7f13-4e1c-a1f4-3834f570223f</testCaseGuid>
-</TestCaseEntity>

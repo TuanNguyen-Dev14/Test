@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FA005610 GET_Verify API get code snippet as Admin or Owner</name>
-   <tag>autonomous,fast-test,api</tag>
-   <comment></comment>
-   <testCaseGuid>9d67d82f-5de7-4f7f-bc46-8e285cab9b96</testCaseGuid>
-</TestCaseEntity>

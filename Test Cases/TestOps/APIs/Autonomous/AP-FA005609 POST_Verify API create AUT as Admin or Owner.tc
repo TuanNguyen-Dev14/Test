@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FA005609 POST_Verify API create AUT as Admin or Owner</name>
-   <tag>autonomous,fast-test,api</tag>
-   <comment></comment>
-   <testCaseGuid>fb9acfab-8dfc-4524-b2ef-7fd66a10c2dc</testCaseGuid>
-</TestCaseEntity>

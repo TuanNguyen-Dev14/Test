@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>MC-FA044453 Verify schedule test run modal ui</name>
-   <tag>fast-test,schedule-test-run,ui</tag>
-   <comment></comment>
-   <testCaseGuid>f34cf08b-d1a4-44bc-b416-df2280af8ee6</testCaseGuid>
-</TestCaseEntity>

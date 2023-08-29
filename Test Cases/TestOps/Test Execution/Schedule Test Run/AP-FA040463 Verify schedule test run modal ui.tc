@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FA040463 Verify schedule test run modal ui</name>
-   <tag>fast-test,schedule-test-run,ui</tag>
-   <comment></comment>
-   <testCaseGuid>e0b0af76-a042-4992-baa3-185724522015</testCaseGuid>
-</TestCaseEntity>

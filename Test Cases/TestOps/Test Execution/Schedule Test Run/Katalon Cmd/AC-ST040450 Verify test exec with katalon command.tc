@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AC-ST040450 Verify test exec with katalon command</name>
-   <tag>story-test,schedule-test-run,ui,p1</tag>
-   <comment></comment>
-   <testCaseGuid>3988cc2e-d026-41a0-be42-b513798a92b3</testCaseGuid>
-</TestCaseEntity>

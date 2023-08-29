@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FE005621 Verify that TO display description of AUT when user navigate to AUT</name>
-   <tag>feature-test,application-under-test,ui,p4</tag>
-   <comment></comment>
-   <testCaseGuid>0c4a5d06-5e25-4a09-be73-60b9504b0533</testCaseGuid>
-</TestCaseEntity>

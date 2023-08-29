@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AP-FA039505 GET_Verify API get Graph success</name>
-   <tag>autnomous-test,fast-test,api,p1</tag>
-   <comment></comment>
-   <testCaseGuid>9a80c972-5eca-448a-af7f-7c6ff099bfa5</testCaseGuid>
-</TestCaseEntity>
