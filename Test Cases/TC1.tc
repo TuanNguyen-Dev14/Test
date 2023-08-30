@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>AC-ST01341 Verify delete an account successfully</name>
+   <name>TC1</name>
    <tag>story-test,account-setting,ui,p3</tag>
    <comment></comment>
    <testCaseGuid>eb3cf9bc-c138-481b-b1e4-5044db43c9cd</testCaseGuid>
