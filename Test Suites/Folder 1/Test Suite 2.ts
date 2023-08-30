@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite 1</name>
+   <name>Test Suite 2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>abcbb09a-677f-47ed-bc3e-a542003dca0e</testSuiteGuid>
+   <testSuiteGuid>5b38cbcf-bc96-4b7e-ab44-b5821624dab1</testSuiteGuid>
    <testCaseLink>
       <guid>16156b4f-c2fd-417c-b19f-bc0798e9509d</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -49,7 +49,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>85a58ab5-226d-4c6d-9a00-711d114594ed</guid>
+      <guid>49085681-e044-4325-b4df-1a0e88083c5b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestOps/APIs/Autonomous/TC2</testCaseId>
