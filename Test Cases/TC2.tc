@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-< TestCaseEntity >
+<TestCaseEntity>
    < description ></description>
    < name >TC1</name>
    < tag >story-test,account-setting,ui,p3</tag>
