@@ -6,7 +6,7 @@
    <UUID>052f4412-8190-4f05-b35a-5dd184aacaff</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/tuan.nguyen/Downloads/Test%20Azure%20repo/shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>/Users/tuan.nguyen/Downloads/Katalon-Repo-Test/shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>

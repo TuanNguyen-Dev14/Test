@@ -15,7 +15,7 @@
       <guid>16156b4f-c2fd-417c-b19f-bc0798e9509d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC1</testCaseId>
+      <testCaseId>Test Cases/TC 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -47,12 +47,5 @@
          <value></value>
          <variableId>93976fab-28b0-4cb1-b209-61eba0e3ece3</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>49085681-e044-4325-b4df-1a0e88083c5b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TestOps/APIs/Autonomous/TC2</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
